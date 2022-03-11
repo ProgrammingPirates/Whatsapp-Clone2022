@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mongoose": "^6.2.5",
+    "mongoose-delete": "^0.5.4"
+  }
+}
